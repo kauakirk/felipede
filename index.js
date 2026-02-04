@@ -1,4 +1,4 @@
-const {Person} = require("./person");
+const { Person } = require("./person");
 
-const person = new Person ("Kirk");
+const person = new Person("Kaua");
 console.log(person.sayMyName());
