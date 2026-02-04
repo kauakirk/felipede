@@ -1,16 +1,23 @@
 {
-  "name": "s",
+  "name": "felipede",
   "version": "1.0.0",
-  "description": "Curso",
+  "description": "Curso node",
+  "homepage": "https://github.com/kauakirk/felipede#readme",
+  "bugs": {
+    "url": "https://github.com/kauakirk/felipede/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kauakirk/felipede.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
   "main": "index.js",
   "scripts": {
-    "dev": "next dev"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "MIT",
-  "dependencies": {
-    "next": "^13.1.6",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+  "devDependencies": {
+    "nodemon": "^3.1.11"
   }
 }
