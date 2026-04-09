@@ -1,9 +1,0 @@
-Node: Executa js fora do navegador v8
-Usamos para construir API
-Um nucleo
-Non blocking
-
-Otimo uso de memoria
-Harmonia com o front end
-
-nodemon para nao precisar reniciar o servidor para atualizar
