@@ -1,0 +1,10 @@
+Curso de java Script
+
+
+Usar Var sempre sera uma variavel global
+Const e Let voce nao terá esse problema
+const nao tem como mudar o valor da variavel
+
+como var é sempre global ele nunca sera apagada da memoria ram ou seja ela é menos otimizada
+
+
